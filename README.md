@@ -2,7 +2,7 @@
 
 Nama            : ramdani
 
-NIM             : 312210133
+NIM             : 311910595
 
 Kelas           : TI.22.A.1
 
