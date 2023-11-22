@@ -885,11 +885,6 @@ e. Project Set Alarm = MainActivity.java (karena implicit intent jadi code untuk
               </intent-filter>
           </activity>
 
-# Hasil RUN
-
-Berikut ini adalah video hasil RUN dari aplikasi yang sudah dibuat.
-
-https://github.com/nadyakhorun/Intent-App/assets/115801823/1ea6253f-21a1-49a8-a158-68873134218c
 
 # SELESAI, TERIMA KASIH
 
